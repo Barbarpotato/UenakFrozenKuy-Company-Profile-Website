@@ -7,7 +7,7 @@ function Introduction() {
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
             transition={{ duration: 1.2 }}
-            id="awal" className="flex flex-col h-[600px] bg-center bg-cover" style={{ "backgroundImage": "url(https://firebasestorage.googleapis.com/v0/b/uenakfrozenkuy-a82a8.appspot.com/o/background.jpeg?alt=media&token=a7189762-86b6-4695-9ce0-6ab17326fb9c)" }}>
+            id="awal" className="flex flex-col h-[600px] bg-center bg-cover" style={{ "backgroundImage": "url(https://img.freepik.com/premium-photo/black-stone-food-background-vegetables-spices-black-old-table_187166-9514.jpg)" }}>
             <motion.h1
                 initial={{ scale: 0 }}
                 whileInView={{ scale: 1 }}

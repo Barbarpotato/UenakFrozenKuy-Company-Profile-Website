@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion"
+import Logo from '../images/logo.png';
 
 function NavListDesktop() {
     return (
@@ -26,7 +27,7 @@ function Navigation(props) {
         <div>
             <div className="navigation static flex items-center w-full h-14 bg-zinc-800">
                 <div className="logo flex-none mx-3">
-                    <img width="50px" height="auto" src="https://firebasestorage.googleapis.com/v0/b/uenakfrozenkuy-a82a8.appspot.com/o/uenakfrozenkuy.png?alt=media&token=52d5bd24-a0cc-4592-ba1a-d96a356c456f" alt="logo" />
+                    <img width="50px" height="auto" src={Logo} alt="logo" />
                 </div>
                 <motion.div
                     initial={{ x: -200, opacity: 0 }}
