@@ -8,5 +8,5 @@
 
 I'am Using the Tailwindcss Framework to help me building the design of this application.
 You can read the documentations on this site:
-<h4><a href='https://tailwindcss.com/'>TailwindCss</a></h4>
+<h4><a href='https://tailwindcss.com/'>Visit this link</a></h4>
 <img src='https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg'></img>
